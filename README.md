@@ -1,5 +1,3 @@
-![Logo](https://github.com/smartinternz02/SBSPS-Challenge-5238-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application/blob/4c82ceb81b6248a6c37d85c13df1151de1a06ba1/Screenshots%20for%20report/Asset%204500.jpg)
-
 **Team Name - AgriOracle** \
 **Problem Title** - AI-Assisted Farming for Crop Recommendation & Farm Yield Prediction Application
 
